@@ -15,7 +15,7 @@ class TokenController {
 
     if (!user) {
       return res.status(401).json({
-        errors: ['Usuários não existe'],
+        errors: ['Usuário não existe'],
       });
     }
 
