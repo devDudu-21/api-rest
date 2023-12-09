@@ -29,4 +29,4 @@ To contribute to repository, follow these steps:
 
 Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-[⬆ Back to the top](#api-rest) `<br>`
+[⬆ Back to the top](#api-rest)
